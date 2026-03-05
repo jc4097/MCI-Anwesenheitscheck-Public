@@ -19,8 +19,8 @@ Automatische Anwesenheitsverwaltung für MCI-Studierende als Google Sheets Add-o
 2. Öffne **Erweiterungen → Apps Script**
 3. Lösche den bestehenden Code in `Code.gs`
 4. Kopiere den Inhalt von `Wrapper.gs` aus diesem Repo in den Editor
-5. Klicke links auf das **+** neben "Dateien" → **appsscript.json anzeigen** (unter Projekteinstellungen aktivieren)
-6. Ersetze den Inhalt der `appsscript.json` mit dem Inhalt aus diesem Repo
+5. Gehe links auf **Projekteinstellungen** (Zahnrad) → aktiviere **"Manifestdatei 'appsscript.json' im Editor anzeigen"**
+6. Wechsle zurück zum **Editor** und ersetze den Inhalt der `appsscript.json` mit dem Inhalt aus diesem Repo
    > Die Library-Verbindung wird automatisch hergestellt – du musst nichts manuell hinzufügen.
 7. Speichern und Sheet neu laden
 8. Das Menü **📅 Anwesenheit** erscheint oben

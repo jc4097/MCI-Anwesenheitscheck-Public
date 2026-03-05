@@ -1,13 +1,6 @@
 // ============================================================
 //  MCI Anwesenheitscheck – Wrapper
-//
-//  ANLEITUNG:
-//  1. Diesen Code in dein Apps Script Projekt einfügen
-//  2. Library hinzufügen: Bibliotheken → + → Script-ID einfügen
-//     (Script-ID bekommst du vom Entwickler)
-//  3. Identifier auf "Lib" setzen → Hinzufügen
-//  4. appsscript.json aus dem Repo übernehmen
-//  5. Speichern & Sheet neu laden
+//  Anleitung: siehe README.md
 // ============================================================
 
 // ── Menü & Trigger ──────────────────────────────────────────
