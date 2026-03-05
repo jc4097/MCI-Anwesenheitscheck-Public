@@ -1,6 +1,15 @@
 {
   "timeZone": "Europe/Vienna",
-  "dependencies": {},
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "Lib",
+        "version": "2",
+        "libraryId": "1hS0OmeiAUYQXqYF3BkQb-iqZfummZVhCPSE9mZ5If-qGf4TeEe6xRT0d",
+        "developmentMode": false
+      }
+    ]
+  },
   "exceptionLogging": "STACKDRIVER",
   "runtimeVersion": "V8",
   "oauthScopes": [
